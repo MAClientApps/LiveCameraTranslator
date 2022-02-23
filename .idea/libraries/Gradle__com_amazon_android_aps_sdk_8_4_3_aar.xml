@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazon.android:aps-sdk:8.4.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9356dfcb28c737ebcb8e82aec93f5129/jetified-aps-sdk-8.4.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9356dfcb28c737ebcb8e82aec93f5129/jetified-aps-sdk-8.4.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9356dfcb28c737ebcb8e82aec93f5129/jetified-aps-sdk-8.4.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazon.android/aps-sdk/8.4.3/4438fc3d4fb84842025039614aa225c0b80ffc0c/aps-sdk-8.4.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazon.android/aps-sdk/8.4.3/b0b12c4c252cec3a0816d627e83b3f0680e3f2d9/aps-sdk-8.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

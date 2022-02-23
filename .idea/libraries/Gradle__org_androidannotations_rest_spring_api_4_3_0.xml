@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.androidannotations:rest-spring-api:4.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/rest-spring-api/4.3.0/9eef41deb0bfdbd1f0af7c147e02948ce27c1d42/rest-spring-api-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/rest-spring-api/4.3.0/1e9e37a4e664b01969e01eb6cc10925fbc31a868/rest-spring-api-4.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.androidannotations/rest-spring-api/4.3.0/17602b508bc7dffb15a7e4692813014f715f86bd/rest-spring-api-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

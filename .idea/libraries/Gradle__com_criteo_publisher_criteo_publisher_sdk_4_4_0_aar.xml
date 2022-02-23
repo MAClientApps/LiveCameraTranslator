@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.criteo.publisher:criteo-publisher-sdk:4.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e141b9f9d6edcc37b5fe5059595e944/jetified-criteo-publisher-sdk-4.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e141b9f9d6edcc37b5fe5059595e944/jetified-criteo-publisher-sdk-4.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e141b9f9d6edcc37b5fe5059595e944/jetified-criteo-publisher-sdk-4.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.criteo.publisher/criteo-publisher-sdk/4.4.0/56ac3ed5fddb15dcbd7516c49852c76d5afe2fea/criteo-publisher-sdk-4.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.criteo.publisher/criteo-publisher-sdk/4.4.0/6037cc54b2301443a47558032eb8dac1114640fe/criteo-publisher-sdk-4.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

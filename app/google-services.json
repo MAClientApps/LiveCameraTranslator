@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705174705990",
+    "project_id": "live-cam-trans",
+    "storage_bucket": "live-cam-trans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705174705990:android:99790e915ae5ea8e0c7747",
+        "android_client_info": {
+          "package_name": "com.lctrans.livecamtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705174705990-tssoalulua15kkc2ta7slopqmd7r7f4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4D8q3cHM24Xsql6Xc8d5VfLLOJ9kwmx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705174705990-tssoalulua15kkc2ta7slopqmd7r7f4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

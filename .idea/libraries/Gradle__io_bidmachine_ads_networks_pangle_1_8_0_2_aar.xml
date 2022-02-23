@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.bidmachine:ads.networks.pangle:1.8.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9d5efded6a31fb0d1a87d4c53056547/jetified-ads.networks.pangle-1.8.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9d5efded6a31fb0d1a87d4c53056547/jetified-ads.networks.pangle-1.8.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c9d5efded6a31fb0d1a87d4c53056547/jetified-ads.networks.pangle-1.8.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

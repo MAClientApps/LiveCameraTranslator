@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Live Camera Translator</string>
+    <string name="app_scheme">livecameratransltor</string>
+    <string name="touchtoinsert">Touch to insert text</string>
+    <string name="transtext">Translated text here</string>
+
+</resources>
